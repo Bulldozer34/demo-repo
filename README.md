@@ -7,9 +7,3 @@ Some description !
  
 ## Test 
 obaloluwa 
-
- ## local devolopement 
-
-
-
-1. open readme in the browerser
